@@ -223,7 +223,8 @@ Competência 2: 120 pontos
 Avaliando a competência 2 você usou 76 palavras que se relacioanm com o tema. 
 identificamos que sua redação não fugiu ao tema, com a probabilidade de 100.00%.
 
-Também analisamos aqui se sua estrutura apresenta a coerência de uma redação dissertativa-argumentativa, para isso foram identificados 4 parágrafos na sua redação. 
+Também analisamos aqui se sua estrutura apresenta a coerência de uma redação
+dissertativa-argumentativa, para isso foram identificados 4 parágrafos na sua redação. 
 Indicando que você usou a estrutura recomendada de 4 a 5 parágrafos.
 
 Melhore a argumentação de seu tema, em especial nos parágrafos de desenvolvimento, 
@@ -250,14 +251,15 @@ Competência 4: 200 pontos
 Os elementos de avaliação da Competência 4 relacionam-se à estruturação lógica e 
 formal entre as partes do texto.
 
-Nessa situação foi identificado que você utilizou os termos: "a" 23 vezes, "e" 23 vezes, 
-"de o" 12 vezes, "de" 12 vezes, "o" 11 vezes, Revisite sessões marcadas na redação e 
-busque utilizar sinônimos.
+Nessa situação foi identificado que você utilizou os termos: "a" 23 vezes, "e" 23 
+vezes, "de o" 12 vezes, "de" 12 vezes, "o" 11 vezes, Revisite sessões marcadas na 
+redação e busque utilizar sinônimos.
 
 Para que um texto seja coeso, é necessário empregar corretamente e diversamente os 
-conectivos, além de outros fatores. VocÊ utilizou 6 conectivos diferentes e utilizou 
+conectivos, além de outros fatores. Você utilizou 6 conectivos diferentes e utilizou 
 "e" por 23 vezes, "para" por 7 vezes, e "como" por 4 vezes. Para cada conexão entre 
-as partes da redação, encontre a categoria correta e diversifique seu repertório de conectivos.
+as partes da redação, encontre a categoria correta e diversifique seu repertório de 
+conectivos.
 ```
 ```
 Competência 5: 200 pontos
