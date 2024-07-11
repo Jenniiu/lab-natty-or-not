@@ -1,5 +1,5 @@
 ## Descrição
-Geração e correção de redação dissertativa-argumentativa através de IA.
+Criação e correção de redação dissertativa-argumentativa através de IA.
 
 ### Tecnologias Utilizadas
 
